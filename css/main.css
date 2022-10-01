@@ -258,11 +258,22 @@ body {
   justify-content: space-between;
   background: #fff;
 }
+
+.menu_form {
+  display: grid;
+  
+}
+
+.menu_display_setting {
+  width: 100%;
+}
+
 .menu_item_image {
   width: 55%;
   object-fit: cover;
   height: 300px;
 }
+
 .menu_item_price {
   color: #42210b;
   font-size: 18px;
